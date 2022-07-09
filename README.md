@@ -1,5 +1,6 @@
 # Trigrams
 Mutate text into new with Trigrams 
+http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/
 
 # Development Approach
  Followed test driven development
